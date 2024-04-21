@@ -89,7 +89,7 @@ It shows the image bundled with the app, when you click on download it will down
 
 Store AND Load user settings locally:
 In the home screen you can enter name, this will persist when you go back and forth and also when you close the phone.,
-![alt text](https://github.com/iamdevhk/CSS545_HW/blob/HW2/screenshots/4.jpg)
+![alt text](https://github.com/iamdevhk/CSS545_HW/blob/HW2/screenshots/6.jpg)
  
 The name you enter will be also displayed in the next screen
- ![alt text](https://github.com/iamdevhk/CSS545_HW/blob/HW2/screenshots/6.jpg)
+ ![alt text](https://github.com/iamdevhk/CSS545_HW/blob/HW2/screenshots/4.jpg)
