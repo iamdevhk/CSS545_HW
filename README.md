@@ -85,11 +85,11 @@ When you click on download image in the above  it will take you to the next scre
  
 It shows the image bundled with the app, when you click on download it will download as 1.jpg, if you click again it will download as 2.jpg, its like a counter.
 
- ![alt text](https://github.com/iamdevhk/CSS545_HW/blob/HW2/screenshots/4.jpg)
+ ![alt text](https://github.com/iamdevhk/CSS545_HW/blob/HW2/screenshots/5.jpg)
 
 Store AND Load user settings locally:
 In the home screen you can enter name, this will persist when you go back and forth and also when you close the phone.,
-![alt text](https://github.com/iamdevhk/CSS545_HW/blob/HW2/screenshots/5jpg)
+![alt text](https://github.com/iamdevhk/CSS545_HW/blob/HW2/screenshots/4.jpg)
  
 The name you enter will be also displayed in the next screen
  ![alt text](https://github.com/iamdevhk/CSS545_HW/blob/HW2/screenshots/6.jpg)
