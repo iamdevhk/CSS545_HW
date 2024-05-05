@@ -1,4 +1,6 @@
+Please find the documentation below, The documentation for the app is also included, You can see the demo video by downloading the demo.mp4 found in the repo
 The various states that an app can enter on your platform of choice
+
 So, for android app here are the various states an App Can Enter:
 
 1. Created:
